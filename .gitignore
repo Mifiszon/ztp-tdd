@@ -2,5 +2,4 @@
 vendor
 .php_cs.cache
 .phpunit.cache
-composer.lock
 .phpunit.result.cache
