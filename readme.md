@@ -1,5 +1,6 @@
 # Learning TDD - Kata Log
-
+- String Calculator Kata
+- FizzBuzz Kata
 
 # General information
 
