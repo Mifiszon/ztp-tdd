@@ -1,6 +1,7 @@
 # Learning TDD - Kata Log
 - String Calculator Kata
 - FizzBuzz Kata
+  https://kata-log.rocks/pair-programming
 
 # General information
 
